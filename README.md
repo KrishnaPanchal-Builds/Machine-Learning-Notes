@@ -9,3 +9,7 @@ Lec 1: https://aarushiaiyyariitb.github.io/Machine-Learning-Notes/Lec%20-%201/
 Lec 2 and Lec 3: https://aarushiaiyyariitb.github.io/Machine-Learning-Notes/Lec%20-%202/
 
 Lec 4 - https://aarushiaiyyariitb.github.io/Machine-Learning-Notes/Lec%20-%204/
+
+Lec 5 - https://aarushiaiyyariitb.github.io/Machine-Learning-Notes/Lec%20-%205/
+
+Lec - 6: https://aarushiaiyyariitb.github.io/Machine-Learning-Notes/Lec%20-%206/
