@@ -13,3 +13,5 @@ Lec 4: https://aarushiaiyyariitb.github.io/Machine-Learning-Notes/Lec%20-%204/
 Lec 5: https://aarushiaiyyariitb.github.io/Machine-Learning-Notes/Lec%20-%205/
 
 Lec 6: https://aarushiaiyyariitb.github.io/Machine-Learning-Notes/Lec%20-%206/
+
+Lec 7: https://aarushiaiyyariitb.github.io/Machine-Learning-Notes/Lec%20-%207/
